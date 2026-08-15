@@ -1,1 +1,12 @@
 Meu Laboratorio
+O que é controle de versionamento
+Controle de versionamento é o processo de registrar e gerenciar alterações realizadas em arquivos ao longo do tempo.
+
+Na prática, isso significa que o sistema consegue:
+
+armazenar diferentes versões do projeto
+identificar quem realizou determinada alteração
+recuperar versões anteriores
+comparar modificações
+permitir trabalho colaborativo
+Esse mecanismo é fundamental para evitar perda de código e facilitar a manutenção dos sistemas.
