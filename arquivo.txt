@@ -10,3 +10,4 @@ recuperar versões anteriores
 comparar modificações
 permitir trabalho colaborativo
 Esse mecanismo é fundamental para evitar perda de código e facilitar a manutenção dos sistemas.
+Editando localmente na branch funcionalidade
